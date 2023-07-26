@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      "Hyperlink Text Markup Language",
+      "Hypertext Transfer Markup Language",
+      "Hyper Transfer Markup Language",
+      "Hypertext Markup Language"
+    ],
+    "correct_answer": "Hypertext Markup Language"
+  },
+  {
+    "question": "What is the purpose of the <head> tag in HTML?",
+    "answers": [
+      "To define the main content of the page",
+      "To define the footer of the page",
+      "To define the header of the page",
+      "To define the metadata of the page"
+    ],
+    "correct_answer": "To define the metadata of the page"
+  },
+  {
+    "question": "What is the difference between a div and a span in HTML?",
+    "answers": [
+      "A div is used to group block-level elements, while a span is used to group inline elements",
+      "A div is used to group inline elements, while a span is used to group block-level elements",
+      "A div is used to create a hyperlink, while a span is used to create a form element",
+      "A div is used to create a form element, while a span is used to create a hyperlink"
+    ],
+    "correct_answer": "A div is used to group block-level elements, while a span is used to group inline elements"
+  },
+  {
+    "question": "What is the role of the alt attribute in an <img> tag?",
+    "answers": [
+      "To specify the image source URL",
+      "To define the caption for the image",
+      "To provide a text description of the image",
+      "To define the width and height of the image"
+    ],
+    "correct_answer": "To provide a text description of the image"
+  },
+  {
+    "question": "What is the difference between the <ul> and <ol> tags in HTML?",
+    "answers": [
+      "<ul> creates a numbered list, while <ol> creates an unordered list",
+      "<ul> creates an unordered list, while <ol> creates a numbered list",
+      "<ul> creates a definition list, while <ol> creates a descriptive list",
+      "<ul> creates a descriptive list, while <ol> creates a definition list"
+    ],
+    "correct_answer": "<ul> creates an unordered list, while <ol> creates a numbered list"
+  },
+  {
+    "question": "What is the role of the <a> tag in HTML?",
+    "answers": [
+      "To define a section of the document",
+      "To create an image",
+      "To create a form element",
+      "To create a hyperlink"
+    ],
+    "correct_answer": "To create a hyperlink"
+  },
+  {
+    "question": "What is the purpose of the <form> tag in HTML?",
+    "answers": [
+      "To create a section of the document",
+      "To create a table",
+      "To create a hyperlink",
+      "To create a form element"
+    ],
+    "correct_answer": "To create a form element"
+  },
+  {
+    "question": "What is the role of the <table> tag in HTML?",
+    "answers": [
+      "To create a hyperlink",
+      "To create a form element",
+      "To create a section of the document",
+      "To create a table"
+    ],
+    "correct_answer": "To create a table"
+  },
+  {
+    "question": "What is the purpose of the <br> tag in HTML?",
+    "answers": [
+      "To create a section of the document",
+      "To create a line break",
+      "To create a table",
+      "To create a hyperlink"
+    ],
+    "correct_answer": "To create a line break"
+  },
+  {
+    "question": "What is the role of the <h1> to <h6> tags in HTML?",
+    "answers": [
+      "To create a hyperlink",
+      "To define the main content of the page",
+      "To create a form element",
+      "To define the heading levels of the page"
+    ],
+    "correct_answer": "To define the heading levels of the page"
+  },
+  {
+    "question": "What is the purpose of the <meta> tag in HTML?",
+    "answers": [
+      "To define the title of the page",
+      "To define the metadata of the page",
+      "To define the main content of the page",
+      "To define the footer of the page"
+    ],
+    "correct_answer": "To define the metadata of the page"
+  },
+  {
+    "question": "What is the role of the <iframe> tag in HTML?",
+    "answers": [
+      "To create an image",
+      "To create a hyperlink",
+      "To create a form element",
+      "To embed external content into a webpage"
+    ],
+    "correct_answer": "To embed external content into a webpage"
+  },
+  {
+    "question": "What is the difference between the <strong> and <em> tags in HTML?",
+    "answers": [
+      "<strong> makes text bold, while <em> makes text italic",
+      "<strong> makes text italic, while <em> makes text bold",
+      "<strong> creates a hyperlink, while <em> creates an image",
+      "<strong> creates an image, while <em> creates a hyperlink"
+    ],
+    "correct_answer": "<strong> makes text bold, while <em> makes text italic"
+  },
+  {
+    "question": "What is the role of the <nav> tag in HTML?",
+    "answers": [
+      "To define a section of the document",
+      "To create a hyperlink",
+      "To create a form element",
+      "To define a navigation section of the document"
+    ],
+    "correct_answer": "To define a navigation section of the document"
+  },
+  {
+    "question": "What is the purpose of the <label> tag in HTML?",
+    "answers": [
+      "To create a hyperlink",
+      "To define the main content of the page",
+      "To define a form element",
+      "To associate text with a form element"
+    ],
+    "correct_answer": "To associate text with a form element"
+  },
+  {
+    "question": "What is the difference between the <input type='text'> and <input type='password'> tags in HTML?",
+    "answers": [
+      "<input type='text'> creates a text field, while <input type='password'> creates a password field",
+      "<input type='password'> creates a text field, while <input type='text'> creates a password field",
+      "<input type='text'> creates a radio button, while <input type='password'> creates a checkbox",
+      "<input type='password'> creates a checkbox, while <input type='text'> creates a radio button"
+    ],
+    "correct_answer": "<input type='text'> creates a text field, while <input type='password'> creates a password field"
+  },
+  {
+    "question": "What is the purpose of the <textarea> tag in HTML?",
+    "answers": [
+      "To create a password field",
+      "To create a radio button",
+      "To create a checkbox",
+      "To create a multi-line text field"
+    ],
+    "correct_answer": "To create a multi-line text field"
+  }
+]
