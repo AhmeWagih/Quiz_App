@@ -23,7 +23,7 @@ function getQuestion() {
       //Add Question Data
       addQuestionData(questionObject[currentIndex], questionCount);
       //Counter
-      countDown(5, questionCount);
+      countDown(15, questionCount);
       //When Submit The Answer
       submitButton.onclick = () => {
         let correctAnswer = questionObject[currentIndex].correct_answer;
@@ -40,7 +40,7 @@ function getQuestion() {
         showResult(questionCount);
         //Counter
         clearInterval(countDownInterval);
-        countDown(5, questionCount);
+        countDown(15, questionCount);
       };
     }
   };
